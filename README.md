@@ -1,3 +1,7 @@
+![RBDLabs Logo](logo/mylogo.png)
+
+
+
 # RBDLabs Audit Portfolio
 
 Welcome to **RBDLabs**, a blockchain security auditing firm specializing in Solidity smart contract audits. Founded by Andry Narson, RBDLabs delivers rigorous security analyses to ensure the integrity, safety, and financial correctness of decentralized protocols. This repository serves as a portfolio showcasing our audit reports and expertise in identifying critical vulnerabilities.
