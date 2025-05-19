@@ -17,7 +17,7 @@ This repository contains anonymized audit reports for Solidity-based protocols, 
 - **ThunderLoan Protocol Audit (2025)**: Audit of an Ethereum-based protocol.  
   - Report: [Reports/2025-05-13-thunderloan-audit-reports.pdf](Reports/2025-05-13-thunderloan-audit-reports.pdf)
 - **Boss bridge Protocol Audit (2025)**: Audit of an Ethereum-based protocol.
- - Report: [Reports/2025-05-19-boss-bridge-audit-report.pdf] (Reports/2025-05-19-boss-bridge-audit-report.pdf)
+ - Report: [Reports/2025-05-19-boss-bridge-audit-report.pdf](Reports/2025-05-19-boss-bridge-audit-report.pdf)
 
 *Note*: All reports are anonymized to protect client confidentiality. Additional reports will be added to the `/reports` directory as completed.
 
